@@ -1,0 +1,76 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Brawler
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by Oleg Frolov | Cyreal. All rights reserved.
+    License: Copyright (c) 2010, Oleg Frolov,
+    License url: http://scripts.sil.org/OFL
+    Version: 1.000
+    Vendor: Oleg Frolov | Cyreal
+    Vendor url: http://cyreal.org
+    Designer: Oleg Frolov | Cyreal
+    Designer url: http://cyreal.org
+    Glyph count: 230
+    Character count: 221
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 99
+  Font:
+    Common name: Brawler
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Oleg Frolov | Cyreal. All rights reserved.
+    License: Copyright (c) 2010, Oleg Frolov,
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Oleg Frolov | Cyreal
+    Vendor url: http://cyreal.org
+    Designer: Oleg Frolov | Cyreal
+    Designer url: http://cyreal.org
+    Glyph count: 229
+    Character count: 221
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 99
